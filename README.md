@@ -37,5 +37,7 @@ This is a simple web-based College Admission System developed using **HTML**, **
 ## 🖼️ Project Screenshots
 
  <img src="https://i.imgur.com/8kx6wVs.png" width="1000"> 
+ 
+## 📁 Database Screenshot 
 
  <img src="https://i.imgur.com/UatKxZF.png" width="1000"> 
